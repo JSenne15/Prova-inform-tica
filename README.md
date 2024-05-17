@@ -1,1 +1,1 @@
-# Prova-inform-tica
+# Prova de informática
